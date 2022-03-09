@@ -1,0 +1,2 @@
+[30-Dec-2017 12:38:33 America/Mexico_City] PHP Fatal error:  Call to undefined function csrf_token() in /home/sinfonic/public_html/web/public/js/map_app.php on line 7
+[30-Dec-2017 12:38:46 America/Mexico_City] PHP Fatal error:  Call to undefined function csrf_token() in /home/sinfonic/public_html/web/public/js/map_app.php on line 7

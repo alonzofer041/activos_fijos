@@ -1,0 +1,106 @@
+/* --------- CABECERA ---------- */
+ 
+  .logo{
+    width: 40px;
+  }
+
+  .letra{
+    width: 80px;
+  }
+
+/* --------- CONTENIDO ---------- */
+.buscador{
+    display: inline-block;
+  }
+.color{
+  background: #EFEFFB;
+}
+.marcado{
+  color: #424242;
+  font-weight: bold;
+}
+
+.ancc{
+  width: 400px;
+  margin-left: 15px;
+}
+
+.editar{
+  width: 30px;
+}
+.cabec{
+font-size:22px;
+color: #6E6E6E;
+font-weight: bold;
+}
+
+/* --------- FORMULARIO ---------- */
+
+.fila{
+  width: 100%;
+  }
+.inputes{
+  display: inline-block; 
+  margin-top: 5px;
+  margin-left: 4px;
+}
+
+.input{
+width: 100%;
+font-size: 18px;
+height: 45px;
+border-radius: 4px;
+border: 1px solid #848484;
+background: #fff;
+color: #848484;
+padding-left: 10px;
+}
+
+.texter{
+  width: 100%;
+  font-size: 18px;
+  max-height: 150px;
+  min-height: 150px;
+  border-radius: 4px;
+  border: 1px solid #848484;
+  background: #fff;
+  padding-left: 10px; 
+  color: #848484;
+}
+
+.etiqueta{
+  color: #000;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.divisor{
+margin-top: 35px;
+}
+.text-divisor{
+  font-size: 16px;
+}
+
+/* --------- TABLE INFORCACION ---------- */
+
+.tt{
+margin-top: 20px;
+}
+
+.tabb{
+  border-bottom: 1px solid #A4A4A4;
+}
+.division{
+  background: #E6E6E6;
+  width: 100px;
+  padding:4px 3px 4px 8px;
+  color: #000;
+}
+
+.infodiv{
+  width: 600px;
+  padding:4px 3px 4px 8px;
+}
+
+
+

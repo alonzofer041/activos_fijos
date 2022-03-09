@@ -1,0 +1,114 @@
+body{
+	color: #ffffff;
+	background-color: #ffffff;
+
+}
+body.fondo{
+	background-image: url("../img/fondo.png");
+	background-repeat: no-repeat;
+    background-size: cover;    
+}
+.contenedor{
+	/*padding-top: 30px;*/
+}
+.fondoNegro{
+	background-color: #1C1C1D;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+.fondoAzulft{
+	background-color: #38368B;
+}
+.fondoMorado{
+	background-color: #C886B9;
+}
+.fondoLila{
+	background-color: #B40E64;
+	margin-bottom: 20px;
+}
+.fondoVerdep{
+	background-color: #95C353;
+}
+.fondoRojoq{
+	background-color: #E94E6F;
+}
+
+.paddingTitulo{
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.fechaPrograma{
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 11px;
+}
+.fechaPrograma p{
+	margin-bottom: 0;
+}
+.tituloPrograma{
+	margin:5px;
+	color: #c2a281;
+}
+.btnTickets{
+	border-radius: 10px;
+	width: 100%;
+	border:none;
+}
+
+.descPrograma{
+	list-style: none;
+	margin: 0;
+	padding-left: 0px;
+}
+
+
+
+.rowTiempoReserva{
+	display: flex;
+    align-items: center;
+}
+.tiempoReserva{
+	/*display: table-cell;
+	vertical-align: middle;*/
+	border-radius: 25px;
+	padding-left: 30px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+
+
+}
+.tiempoReserva p{
+	margin-bottom: 0px;
+}
+.titulo{
+	margin-top: 11px;
+	text-align: center;
+}
+.login{
+	background-color: #363535;
+	color: #ffffff;
+	padding: 20px;
+}
+.login .enviar{
+	background-color: #E94E6F;
+	color: #ffffff;
+}
+.login label{
+	color: #ffffff;
+}
+.pocoPadding{
+	padding-left: 8px;
+	padding-right: 8px;
+}
+@media screen and (max-width: 922px) {
+	.pocoPadding{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.rowTiempoReserva{
+		display: table;
+		width: 100%;
+	}
+}
